@@ -1,0 +1,9 @@
+{
+  "name": "Farmora AI",
+  "description": "An all-in-one multilingual platform for Indian farmers to manage labour, attendance, wages, crops, and pest detection using AI.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
